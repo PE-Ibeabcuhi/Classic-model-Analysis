@@ -1,10 +1,7 @@
-# Classic-model-Analysis
+## Classic-model-Analysis
 The data used in this project is a popular one provided by MySQL for practice purposes. You can download it [here](https://www.mysqltutorial.org/mysql-sample-database.aspx). 
-Here is what the ER -Diagram looks like:
 
-
-![](https://paper-attachments.dropboxusercontent.com/s_D1008C68B17B6D4A221FA12E843ED13FCA908684ABD9FEF124229309502E4D45_1675685785464_Screenshot+2023-02-06+at+1.15.26+PM.png)
-
+## About the Data
 
 The database schema consists of the following tables:
 
